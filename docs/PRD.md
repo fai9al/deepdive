@@ -217,20 +217,46 @@ AI Adoption Roadmap — Ministry of Health
 
 **The key differentiator:** Not just a transcript — a formatted deliverable.
 
-**Output Options:**
+**MVP Output: Detailed Markdown Report**
 
-| Format | Use Case |
-|--------|----------|
-| **MBB Slides** | Executive presentations, board briefings |
-| **Formal Report** | Detailed recommendations, technical assessments |
-| **Executive Summary** | 1-2 page decision document |
-| **Action Plan** | Implementation roadmap with owners/timelines |
+```markdown
+# [Topic Title]
+
+## Executive Summary
+[2-3 paragraph synthesis of key findings]
+
+## 1. [First Major Theme from Mind Map]
+### 1.1 [Subtopic]
+- Key insight with supporting evidence
+- Expert perspective incorporated
+- Citation: [Source]
+
+### 1.2 [Subtopic]
+...
+
+## 2. [Second Major Theme]
+...
+
+## Recommendations
+1. [Actionable recommendation]
+2. [Actionable recommendation]
+3. [Actionable recommendation]
+
+## Appendix
+- Sources consulted
+- Discussion transcript (optional)
+```
 
 **Report Structure:**
-- Mind map → Outline
+- Mind map → Outline (hierarchical sections)
 - Discussion → Content (with citations)
 - AI polish → Professional language
-- Template → Consistent corporate branding
+- Export → Markdown (.md) for easy conversion
+
+**Future (Post-MVP):**
+- PowerPoint slides
+- Word documents
+- PDF export
 
 ---
 
@@ -312,26 +338,31 @@ Each slide follows McKinsey-style structure:
 
 ## 8. MVP Scope
 
-### Phase 1: Core Loop (Weeks 1-4)
+### Phase 1: Core Discussion Loop (Weeks 1-3)
 - [ ] Topic input → Perspective generation (3-4 agents)
 - [ ] Round-robin discussion with expert interjection
 - [ ] Basic moderator (intervene after stagnation)
-- [ ] Simple mind map (read-only tree view)
 - [ ] Chat-style UI (Arabic + English)
-- [ ] Basic report export (Markdown)
+- [ ] Session persistence
 
-### Phase 2: Report Quality (Weeks 5-8)
-- [ ] MBB slide template
-- [ ] Formal report template
-- [ ] PowerPoint export
-- [ ] Word export
-- [ ] Citation management
+### Phase 2: Knowledge Organization (Weeks 4-5)
+- [ ] Live mind map (tree view of discovered topics)
+- [ ] Gap identification (unexplored areas)
+- [ ] Citation/source tracking
 
-### Phase 3: Enterprise (Weeks 9-12)
-- [ ] internal knowledge base integration
-- [ ] Project management (save/load consultations)
-- [ ] Team collaboration
-- [ ] Analytics (topics covered, gaps identified)
+### Phase 3: Detailed Report Generation (Weeks 6-8)
+- [ ] Mind map → Report outline
+- [ ] **Detailed Markdown report** with full sections
+- [ ] Executive summary generation
+- [ ] Recommendations extraction
+- [ ] Source citations embedded
+- [ ] Export as .md file
+
+### Future Phases (Post-MVP)
+- PowerPoint/Word export
+- Internal knowledge base integration
+- Team collaboration
+- Analytics dashboard
 
 ---
 
