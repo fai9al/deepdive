@@ -55,17 +55,26 @@ Expert Knowledge  →  AI-Guided Discussion  →  Structured Deliverable
 
 ## 2. The Problem
 
-### What Consultants Have
+### The Executive's Dilemma
+
+Executives need advisors. They search everywhere:
+- Universities — academics who can't communicate to executives
+- Consulting firms — expensive, often junior staff doing the work
+- Independent experts — hit or miss, inconsistent quality
+
+**The hard truth:** It's nearly impossible to find advisors who can deliver consultation in an **executive-ready format**.
+
+### What Experts Have
 - ✅ Deep domain expertise (years of experience)
-- ✅ Contextual knowledge (client relationships, politics)
+- ✅ Contextual knowledge (relationships, politics)
 - ✅ Human judgment for nuanced recommendations
 
-### What Consultants Lack
-- ❌ Coverage of adjacent domains ("What about regulatory implications?")
+### What Experts Lack
+- ❌ Coverage of all aspects ("Did I miss something?")
 - ❌ Time to research every angle
 - ❌ Ability to self-challenge their blind spots
-- ❌ Skills to structure insights into MBB-quality slides
-- ❌ Consistent report formatting across projects
+- ❌ Skills to structure insights into executive-quality output
+- ❌ Consistent deliverable formatting
 
 ### Current Workflow Pain Points
 
@@ -170,6 +179,51 @@ Generated Perspectives:
 2. After 3 answer-only turns → system prompts new direction
 3. Expert can interject anytime → overrides auto-flow
 4. Discussion continues until expert is satisfied
+
+### 5.3 The Review Loop
+
+**The core workflow — experts validate, not AI:**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    EXPERT REVIEW LOOP                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   1. Expert enters topic                                    │
+│                         ↓                                   │
+│   2. AI generates perspectives on aspects TO COVER          │
+│      (Expert KNOWS these aspects — AI ensures none missed)  │
+│                         ↓                                   │
+│   3. Discussion guides expert through ALL aspects           │
+│                         ↓                                   │
+│   4. Markdown report generated                              │
+│                         ↓                                   │
+│   5. Expert REVIEWS the report                              │
+│                         ↓                                   │
+│         ┌─────────────────────────────────┐                 │
+│         │  Is something missing?          │                 │
+│         └───────────┬─────────────────────┘                 │
+│                     │                                       │
+│         ┌───────────┴───────────┐                           │
+│         ▼                       ▼                           │
+│   ┌─────────────┐        ┌─────────────┐                    │
+│   │    YES      │        │     NO      │                    │
+│   │             │        │             │                    │
+│   │ → Continue  │        │ → Submit    │                    │
+│   │   discussion│        │   report    │                    │
+│   │ → Fill gaps │        │   ✓ Done    │                    │
+│   └──────┬──────┘        └─────────────┘                    │
+│          │                                                  │
+│          └──────────► Back to Step 3                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Why this works:**
+- AI doesn't replace expertise — it **ensures completeness**
+- Expert remains the **validator and decision-maker**
+- Report is a **draft for review**, not a final product
+- Iterative until expert is satisfied
 
 ### 5.3 Unknown Unknowns Discovery
 
