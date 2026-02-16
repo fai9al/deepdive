@@ -4,7 +4,7 @@
 **Version:** 3.0  
 **Date:** February 16, 2026  
 **Author:** Dr. Faisal Alotaibi  
-**Context:** SDAIA Consultation Department — 150+ advisory projects annually
+**Context:** Enterprise consultation teams with high-volume advisory work
 
 ---
 
@@ -94,11 +94,11 @@ DeepDive is an AI-augmented consultation tool designed for **domain experts** wh
 
 ## 4. Target Users
 
-### Primary: SDAIA Consultation Department
-- 10-person team
-- 150+ advisory projects annually
-- Clients: Government ministries, public sector entities
-- Deliverables: Strategic recommendations, AI adoption roadmaps, governance frameworks
+### Primary: Consultation Teams & Advisory Firms
+- Strategy consultants and domain experts
+- Government advisory units
+- In-house consulting departments
+- Deliverables: Strategic recommendations, roadmaps, governance frameworks
 
 ### User Personas
 
@@ -107,7 +107,7 @@ DeepDive is an AI-augmented consultation tool designed for **domain experts** wh
 | **Senior Consultant** | 10+ years experience, deep expertise | Blind spots in adjacent domains | AI surfaces angles they'd miss |
 | **Junior Consultant** | Strong research skills, limited experience | Can't structure MBB-quality output | Structured report generation |
 | **Department Head** | Reviews all deliverables | Inconsistent quality across team | Standardized output format |
-| **External Expert** | SME brought in for specific project | Knows domain, not SDAIA style | Template-driven deliverables |
+| **External Expert** | SME brought in for specific project | Knows domain, not house style | Template-driven deliverables |
 
 ---
 
@@ -132,7 +132,7 @@ Generated Perspectives:
 2. AI Ethics Advisor — Patient privacy, algorithmic bias
 3. Change Management Expert — Workforce adoption, training
 4. Public Procurement Specialist — Budget cycles, vendor selection
-5. Regulatory Compliance Officer — NDMO requirements, data residency
+5. Regulatory Compliance Officer — compliance requirements, data residency
 ```
 
 ### 5.2 Guided Discussion Mode
@@ -180,7 +180,7 @@ AI Adoption Roadmap — Ministry of Health
 │   ├── Resistance factors
 │   └── Champion identification
 ├── Governance & Compliance
-│   ├── NDMO alignment
+│   ├── regulatory compliance
 │   ├── Patient consent frameworks
 │   └── Audit requirements
 ├── Financial
@@ -208,7 +208,7 @@ AI Adoption Roadmap — Ministry of Health
 - Mind map → Outline
 - Discussion → Content (with citations)
 - AI polish → Professional language
-- Template → Consistent SDAIA branding
+- Template → Consistent corporate branding
 
 ---
 
@@ -270,10 +270,10 @@ Each slide follows McKinsey-style structure:
 
 ## 7. Integration Points
 
-### 7.1 SDAIA Knowledge Base
+### 7.1 organization Knowledge Base
 - Connect to internal documentation
 - Reference previous consultation reports
-- Align with NDMO guidelines
+- Align with regulatory guidelines
 
 ### 7.2 Export Formats
 - PowerPoint (.pptx) for MBB slides
@@ -283,7 +283,7 @@ Each slide follows McKinsey-style structure:
 
 ### 7.3 Future: PPTXSmart Integration
 - Generate slides directly into PowerPoint
-- Apply SDAIA branding
+- Apply corporate branding
 - Use Slide Library templates
 
 ---
@@ -306,7 +306,7 @@ Each slide follows McKinsey-style structure:
 - [ ] Citation management
 
 ### Phase 3: Enterprise (Weeks 9-12)
-- [ ] SDAIA knowledge base integration
+- [ ] internal knowledge base integration
 - [ ] Project management (save/load consultations)
 - [ ] Team collaboration
 - [ ] Analytics (topics covered, gaps identified)
