@@ -1,8 +1,8 @@
 # DeepDive 🌊
 
-**AI-Powered Collaborative Knowledge Curation Platform**
+**AI-Augmented Consultation Platform for Expert Advisory Work**
 
-> A virtual roundtable where dynamically-generated experts debate your topic — and you hold the gavel.
+> Not human alone. Not AI alone. Both working together.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Inspired by Co-STORM](https://img.shields.io/badge/Inspired%20by-Stanford%20Co--STORM-blue)](https://github.com/stanford-oval/storm)
