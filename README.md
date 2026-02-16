@@ -9,13 +9,28 @@
 
 ---
 
-## 🎯 What is DeepDive?
+## 🎯 The Problem
 
-DeepDive is an AI platform that generates a panel of Subject Matter Experts (SMEs) based on any topic, facilitates autonomous multi-turn discussion between them, and allows you to observe passively or participate actively to steer the discourse.
+Every organization — public or private — has the same problem:
 
-**Core innovation:** Solving the "unknown unknowns" problem — helping you discover information you didn't know you were missing, through participation in expert conversations.
+> **They have senior employees they call "experts." But those experts cannot deliver their consultation in a proper way.**
 
-> *"Tell me and I forget. Teach me and I remember. Involve me and I learn."* — Benjamin Franklin
+These experts have decades of experience. Deep knowledge. Institutional context. But:
+- Their expertise stays **trapped in their heads**
+- Their output is **inconsistent** — rambling emails, unstructured docs
+- They **miss angles** they don't know to consider
+- They **can't format** to MBB/executive standards
+
+## 💡 The Solution
+
+DeepDive bridges the **expertise delivery gap**:
+
+```
+Expert Knowledge  →  AI-Guided Discussion  →  Structured Deliverable
+   (in their head)    (surfaces everything)     (MBB-quality output)
+```
+
+> *"Not human alone. Not AI alone. Both working together."*
 
 ---
 

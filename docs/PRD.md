@@ -15,7 +15,29 @@ DeepDive is an AI-augmented consultation tool designed for **domain experts** wh
 2. Challenge their own thinking with diverse perspectives
 3. Generate structured deliverables (MBB-style slides, formal reports)
 
-**Core insight:** Consultants and experts are made over years of experience. They have deep domain knowledge. But they can't know everything — and they often struggle to structure their insights into polished deliverables.
+### The Market Gap
+
+Every organization — public or private — has the same problem:
+
+> **They have senior employees they call "experts." But those experts cannot deliver their consultation in a proper way.**
+
+These experts have:
+- ✅ 10-20+ years of domain experience
+- ✅ Deep institutional knowledge
+- ✅ Relationships and context
+- ❌ **No way to externalize their expertise comprehensively**
+- ❌ **No skills to structure it professionally**
+
+The knowledge stays trapped in their heads — or comes out as rambling emails, unstructured meetings, and inconsistent documents.
+
+### The Solution
+
+DeepDive bridges the **expertise delivery gap**:
+
+```
+Expert Knowledge  →  AI-Guided Discussion  →  Structured Deliverable
+   (in their head)    (surfaces everything)     (MBB-quality output)
+```
 
 **DeepDive is:**
 - Expert + AI working together
@@ -23,7 +45,7 @@ DeepDive is an AI-augmented consultation tool designed for **domain experts** wh
 - Output is a structured report, not a chat transcript
 
 **DeepDive is NOT:**
-- AI replacing consultants
+- AI replacing experts
 - Pure automation
 - Generic research tool
 
